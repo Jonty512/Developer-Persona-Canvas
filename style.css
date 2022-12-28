@@ -1,0 +1,376 @@
+.title {
+  position: relative;
+  left: 28px;
+  top: 17px;
+  font-family: "Inter", sans-serif;
+  font-style: 700;
+  font-size: 24px;
+}
+
+.description {
+  position: relative;
+  left: 28px;
+  top: 25px;
+  width: 90%;
+  height: 90vh;
+  border: 3px solid #000;
+  border-radius: 7px;
+}
+
+.v_line {
+  position: absolute;
+  height: 90vh;
+  left: 33%;
+  width: 33%;
+  border-left: 3px solid #000;
+  border-right: 3px solid #000;
+}
+
+.individual {
+  position: absolute;
+  left: 6px;
+  top: 6px;
+  font-family: "Inter", sans-serif;
+  font-weight: 700;
+  font-size: 24px;
+}
+
+.top_lilbold1 {
+  position: absolute;
+  left: 6px;
+  top: 10%;
+  font-family: "Inter", sans-serif;
+  font-weight: 400;
+  font-size: 18px;
+}
+
+.bot_lilnotbold1 {
+  position: absolute;
+  left: 6px;
+  top: 13%;
+  font-family: "Inter", sans-serif;
+  font-weight: 100;
+  font-size: 18px;
+}
+
+.top_lilbold2 {
+  position: absolute;
+  left: 6px;
+  top: 20%;
+  font-family: "Inter", sans-serif;
+  font-weight: 400;
+  font-size: 18px;
+}
+
+.bot_lilnotbold2 {
+  position: absolute;
+  left: 6px;
+  top: 23%;
+  font-family: "Inter", sans-serif;
+  font-weight: 100;
+  font-size: 18px;
+}
+
+.top_lilbold3 {
+  position: absolute;
+  left: 6px;
+  top: 30%;
+  font-family: "Inter", sans-serif;
+  font-weight: 400;
+  font-size: 18px;
+}
+
+.bot_lilnotbold3 {
+  position: absolute;
+  left: 6px;
+  top: 33%;
+  font-family: "Inter", sans-serif;
+  font-weight: 100;
+  font-size: 18px;
+}
+
+.top_lilbold4 {
+  position: absolute;
+  left: 6px;
+  top: 40%;
+  font-family: "Inter", sans-serif;
+  font-weight: 400;
+  font-size: 18px;
+}
+
+.bot_lilnotbold4 {
+  position: absolute;
+  left: 6px;
+  top: 43%;
+  font-family: "Inter", sans-serif;
+  font-weight: 100;
+  font-size: 18px;
+}
+
+.skills {
+  position: absolute;
+  left: 6px;
+  top: 53%;
+  font-family: "Inter", sans-serif;
+  font-weight: 700;
+  font-size: 24px;
+}
+
+.top_lilbold5 {
+  position: absolute;
+  left: 6px;
+  top: 63%;
+  font-family: "Inter", sans-serif;
+  font-weight: 400;
+  font-size: 18px;
+}
+
+.bot_lilnotbold5 {
+  position: absolute;
+  left: 6px;
+  top: 66%;
+  font-family: "Inter", sans-serif;
+  font-weight: 100;
+  font-size: 18px;
+}
+
+.top_lilbold6 {
+  position: absolute;
+  left: 6px;
+  top: 73%;
+  font-family: "Inter", sans-serif;
+  font-weight: 400;
+  font-size: 18px;
+}
+
+.bot_lilnotbold6 {
+  position: absolute;
+  left: 6px;
+  top: 76%;
+  font-family: "Inter", sans-serif;
+  font-weight: 100;
+  font-size: 18px;
+}
+
+.top_lilbold7 {
+  position: absolute;
+  left: 6px;
+  top: 83%;
+  font-family: "Inter", sans-serif;
+  font-weight: 400;
+  font-size: 18px;
+}
+
+.bot_lilnotbold7 {
+  position: absolute;
+  left: 6px;
+  top: 86%;
+  font-family: "Inter", sans-serif;
+  font-weight: 100;
+  font-size: 18px;
+}
+
+.awareness {
+  position: absolute;
+  left: 34%;
+  top: 1%;
+  font-family: "Inter", sans-serif;
+  font-weight: 700;
+  font-size: 24px;
+}
+
+.aware_rect {
+  position: absolute;
+  left: 40%;
+  top: 10%;
+  width: 246px;
+  height: 37px;
+  border: 3px solid #000;
+  border-radius: 7px;
+}
+
+.ar_filled {
+  position: absolute;
+  /* left: 40%;
+  top: 10%; */
+  width: 33%;
+  height: 100%;
+  border: 1px solid #000;
+  /* border-radius: 7px; */
+  background-color: #000;
+}
+
+.ar_notfilled {
+  position: absolute;
+  height: 100%;
+  width: 66%;
+  border-right: 3px solid #000;
+}
+
+.hr_line1 {
+  position: absolute;
+  left: 33%;
+  width: 33.45%;
+  top: 25%;
+  border-bottom: 3px solid #000;
+}
+
+.hr_line2 {
+  position: absolute;
+  left: 33%;
+  width: 33.45%;
+  top: 50%;
+  border-bottom: 3px solid #000;
+}
+
+.hr_line3 {
+  position: absolute;
+  left: 33%;
+  width: 33.45%;
+  top: 75%;
+  border-bottom: 3px solid #000;
+}
+
+.business {
+  position: absolute;
+  left: 34%;
+  top: 26%;
+  font-family: "Inter", sans-serif;
+  font-weight: 700;
+  font-size: 24px;
+}
+
+.top_lilbold8 {
+  position: absolute;
+  left: 34%;
+  top: 33%;
+  font-family: "Inter", sans-serif;
+  font-weight: 400;
+  font-size: 18px;
+}
+
+.bot_lilnotbold8 {
+  position: absolute;
+  left: 34%;
+  top: 36%;
+  font-family: "Inter", sans-serif;
+  font-weight: 100;
+  font-size: 14px;
+}
+
+.top_lilbold9 {
+  position: absolute;
+  left: 34%;
+  top: 43%;
+  font-family: "Inter", sans-serif;
+  font-weight: 400;
+  font-size: 18px;
+}
+
+.bot_lilnotbold9 {
+  position: absolute;
+  left: 34%;
+  top: 46%;
+  font-family: "Inter", sans-serif;
+  font-weight: 100;
+  font-size: 14px;
+}
+
+.pd {
+  position: absolute;
+  left: 34%;
+  top: 51%;
+  font-family: "Inter", sans-serif;
+  font-weight: 700;
+  font-size: 24px;
+}
+
+.bot_lilnotbold10 {
+  position: absolute;
+  left: 34%;
+  top: 58%;
+  font-family: "Inter", sans-serif;
+  font-weight: 100;
+  font-size: 14px;
+}
+
+.bot_lilnotbold11 {
+  position: absolute;
+  left: 34%;
+  top: 61%;
+  font-family: "Inter", sans-serif;
+  font-weight: 100;
+  font-size: 14px;
+}
+
+.bot_lilnotbold12 {
+  position: absolute;
+  left: 34%;
+  top: 64%;
+  font-family: "Inter", sans-serif;
+  font-weight: 100;
+  font-size: 14px;
+}
+
+.bot_lilnotbold13 {
+  position: absolute;
+  left: 34%;
+  top: 67%;
+  font-family: "Inter", sans-serif;
+  font-weight: 100;
+  font-size: 14px;
+}
+
+.community {
+  position: absolute;
+  left: 34%;
+  top: 76%;
+  font-family: "Inter", sans-serif;
+  font-weight: 700;
+  font-size: 24px;
+}
+
+.bot_lilnotbold14 {
+  position: absolute;
+  left: 34%;
+  top: 84%;
+  font-family: "Inter", sans-serif;
+  font-weight: 100;
+  font-size: 14px;
+}
+
+.bot_lilnotbold15 {
+  position: absolute;
+  left: 34%;
+  top: 87%;
+  font-family: "Inter", sans-serif;
+  font-weight: 100;
+  font-size: 14px;
+}
+
+.bot_lilnotbold16 {
+  position: absolute;
+  left: 34%;
+  top: 90%;
+  font-family: "Inter", sans-serif;
+  font-weight: 100;
+  font-size: 14px;
+}
+
+.bot_lilnotbold17 {
+  position: absolute;
+  left: 34%;
+  top: 93%;
+  font-family: "Inter", sans-serif;
+  font-weight: 100;
+  font-size: 14px;
+}
+
+.bot_lilnotbold18 {
+  position: absolute;
+  left: 34%;
+  top: 96%;
+  font-family: "Inter", sans-serif;
+  font-weight: 100;
+  font-size: 14px;
+}
